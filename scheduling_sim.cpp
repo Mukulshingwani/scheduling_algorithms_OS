@@ -7,6 +7,7 @@
 #include <algorithm>
 #include <fstream>
 #include <random>
+#include<bits/stdc++.h>
 using namespace std;
 
 
