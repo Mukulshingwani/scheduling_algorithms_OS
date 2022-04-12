@@ -62,4 +62,21 @@ Running this will generate all the required plots in the `plots` folder.
 How we do this? The program `out/scheduling_sim` only runs simulation for a certain number of processes at once. Therefore, we run this program multiple times through the script `plot.py` to run it 10 times for `{10, 20, 30, 40, 50}` processes. 
 
 ## Plots
+![ART_avg](https://user-images.githubusercontent.com/73459839/162943992-dd3ed195-4933-4aed-98bd-c80d6ad78cba.png)
+
+![ART_max](https://user-images.githubusercontent.com/73459839/162944050-8addac5d-8244-4c50-b12f-b93bf2013fd2.png)
+
+![ART_min](https://user-images.githubusercontent.com/73459839/162944065-0888b931-a001-4946-9f0c-20da055f45b0.png)
+
+![AWT_avg](https://user-images.githubusercontent.com/73459839/162944205-1f73ba52-c6e9-4276-b421-5716f56df4f9.png)
+
+![AWT_max](https://user-images.githubusercontent.com/73459839/162944192-02d2c499-11fd-4939-9c4c-2a989700648a.png)
+
+![AWT_min](https://user-images.githubusercontent.com/73459839/162944154-9d1f3737-38f8-43ba-9b4c-b02e4ae61e23.png)
+
+![ATT_avg](https://user-images.githubusercontent.com/73459839/162944220-b50f6e7d-c3be-4eb4-b46e-d81534c1b430.png)
+
+![ATT_max](https://user-images.githubusercontent.com/73459839/162944302-57e54d95-010b-4ce8-82dc-a1b0addd7500.png)
+
+![ATT_min](https://user-images.githubusercontent.com/73459839/162944332-d4383496-7561-47d2-9ed8-221ee37b0a67.png)
 
